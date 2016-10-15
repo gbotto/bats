@@ -1,6 +1,6 @@
-Bats_UY A machine learning algorithm for bat 
+Bats_UY A machine learning algorithm for bat identification in Uruguay
 
-identification in Uruguay
+
 This is the code for a classification algorithm for bat species identification from echolocation pulses in Uruguay. 
 This work was performed by a research group from the Universidad de la República (UdelaR) 
 and the Program for Conservation of Bats from Uruguay (PCMU).
